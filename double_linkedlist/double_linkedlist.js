@@ -149,13 +149,3 @@ double_LinkedList.push(3);
 double_LinkedList.get(2);
 double_LinkedList.get(3);
 
-// double_LinkedList.pop();
-// double_LinkedList.unshift(1);
-//double_LinkedList.insert(2,2);
-
-var a=1;
-function makeNull() {
-    a=null;
-    return input
-}
-makeNull(a)
